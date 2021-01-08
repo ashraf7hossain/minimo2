@@ -19,12 +19,11 @@ a{
 
 
 .container{
-	width: 80%;
+	width: 1140px;
 	margin: auto;
 }
 
 .nav-bar{
-	width: 100%;
 	width: 100%;
 	float:left;
 }
